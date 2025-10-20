@@ -44,6 +44,10 @@
         flex: 1;
         display: flex;
         align-items: center;
+        position: absolute;
+        left: 20px;
+        position: absolute;
+        left: 20px;
         }
 
         header nav {
@@ -424,4 +428,5 @@
             text-align: center;
             width: 100%;
         }
+
           
